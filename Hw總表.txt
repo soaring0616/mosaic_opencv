@@ -1,0 +1,4 @@
+Hw1 - juypter install, conda, network
+Hw2 - 切成給定格子，隨機取去一些空格
+Hw3  - Montage-1 (利用tile的顏色相近，採 K-D tree 來作鑲切)
+Hw4 - Montage-2 (觀察主圖的邊緣，用邊緣相近)
